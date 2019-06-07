@@ -579,5 +579,5 @@ Distribution$set("private",".setRand",function(rand){
   lockBinding(".rand",private)
 })
 Distribution$set("private",".parameters",data.frame())
-Distribution$set("private",".workingSupport",NULL) # DONE
+Distribution$set("private",".workingSupport",NULL) # DONE dsaofijoiasjf
 
